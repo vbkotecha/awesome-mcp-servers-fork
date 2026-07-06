@@ -348,6 +348,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 - [AIServices](https://github.com/vbkotecha/aiservices-api) - Crypto and finance data APIs with built-in trust layer. 16 endpoints: prices, indicators, DeFi yields, dispute resolution. Free + x402 micropayments on Base.
 
+- <img src="https://aiservices.to/favicon.ico" height="14"/> [AgentServices](https://github.com/vbkotecha/aiservices-api) - Paid APIs for AI agents with x402 payments. Crypto prices, DeFi yields, dispute resolution, and marketing intelligence.
 <br />
 
 ## 🧬 <a name="research-data"></a>Research & Data
